@@ -1,0 +1,32 @@
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\appsettings.Development.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\appsettings.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Prova Técnica TPC.exe
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Prova Técnica TPC.deps.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Prova Técnica TPC.runtimeconfig.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Prova Técnica TPC.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Prova Técnica TPC.pdb
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.csproj.AssemblyReference.cache
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.AssemblyInfoInputs.cache
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.AssemblyInfo.cs
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.csproj.CoreCompileInputs.cache
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets.build.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets.development.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets\msbuild.Prova Técnica TPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets\msbuild.build.Prova Técnica TPC.props
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Prova Técnica TPC.props
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Prova Técnica TPC.props
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\scopedcss\bundle\Prova Técnica TPC.styles.css
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova T_.C3D51CAE.Up2Date
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\refint\Prova Técnica TPC.dll
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.pdb
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\Prova Técnica TPC.genruntimeconfig.cache
+C:\PROJETOS e TESTES\Prova Técnica TPC\Prova Técnica TPC\obj\Debug\net8.0\ref\Prova Técnica TPC.dll
