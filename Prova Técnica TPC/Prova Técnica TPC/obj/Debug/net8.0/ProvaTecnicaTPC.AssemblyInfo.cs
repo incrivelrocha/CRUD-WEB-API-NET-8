@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaTecnicaTPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f59c2759c67b5f0c212c1aea7d7f04b154423f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65dca3a98adf03a8b59efcc04cca9407e7056707")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaTecnicaTPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaTecnicaTPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
